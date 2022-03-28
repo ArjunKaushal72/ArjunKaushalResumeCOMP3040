@@ -50,7 +50,9 @@
 ## **Notable Coursework**
 ### **COMP 3380** | *Database Concepts and Usage*
 * An introduction to database systems including the relational, hierarchical, network and entity-relationship models with emphasis on the relational model and SQL
+
 ### **COMP 2160** | *Programming Practices*
 * Focused on learning how to quickly adapt to learn new languages Topics included memory management, debugging, compilation, performance optimization, idiomatic use of programming language, and good programming practice
+
 ### **COMP 2140** | *Data Structures and Algorithms*
 * Introduction to the various  data representations and the manipulation of data structures. Topics included: lists, stacks, queues, binary trees, and graphs
