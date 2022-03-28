@@ -1,3 +1,7 @@
+---
+title: Arjun Kaushal COMP 3040 A2
+---
+
 # Arjun Kaushal
 ##### (204)583-5368 | [arjunkaushal72@gmail.com](mailto:arjunkaushal72.com)
 
