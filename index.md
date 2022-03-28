@@ -11,17 +11,23 @@
 * Developed a student mentorship progressive web app (PWA) using ReactJS framework
 * Utilized Google Firebase functions and SMTP to automate ID verification
 * Constructed and connected secure relational DB for client information
+
+
 ###  **Discord Support Bot** | *Java, Discord API*     Nov. 2020 - Dec. 2020
 * Developed a fully automated bot for the social media platform Discord
 * Enabled user's to lodge complaints, report technical issues, or ask questions to administrators
 * Automated identity and age verification
 * Prioritized user safety and information security
+
+
 ### **Harvard Architecture Simulator** | *C++*     Oct. 2020 - Dec. 2020
 * Used bit manipulation in order to implement instruction handling
 * Created a low-level simulator using Harvard Architecture
 * Integrated a fully-associated cache memory
 * Integrated a simulated hard drive with a DMA controller
 * 
+
+
 ## **Technical Skills**
 #### **Certifications:** AWS Solutions Architect, CCNA (In progress)
 #### **Languages:** Java, Python, C/C++, NodeJS, VBA, SQL, NoSQL, JavaScript
