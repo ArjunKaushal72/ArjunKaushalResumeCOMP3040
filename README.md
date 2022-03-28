@@ -27,7 +27,7 @@ These are some things you should have before following the steps described in th
 #### In Andrew Etters' Book, *Modern Technical Writing*, Etter says that using  headers, tables, lists, diagrams, make your writing more approachable and simpler to scan. So make good use of different Markdown heading sizes in your resume to improve your resume's readability.
 
 ### **2.2: Add your Markdown-formatted Resume .md file to the repository**
-! [Click 'Add File' and then 'Upload Files' to select your resume .md file] (3040clip.gif "Click 'Add File' and then 'Upload Files' to select your resume .md file") 
+! [Click 'Add File' and then 'Upload Files' to select your resume .md file](3040clip.gif "Click 'Add File' and then 'Upload Files' to select your resume .md file") 
 #### On the main page of your repository, click 'Add file' and then select 'Upload files' to find your resume .md file. 
 
 ### **2.3: Use a lightweight markup**
