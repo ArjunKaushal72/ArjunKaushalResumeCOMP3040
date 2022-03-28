@@ -21,6 +21,7 @@
 * Created a low-level simulator using Harvard Architecture
 * Integrated a fully-associated cache memory
 * Integrated a simulated hard drive with a DMA controller
+* 
 ## **Technical Skills**
 #### **Certifications:** AWS Solutions Architect, CCNA (In progress)
 #### **Languages:** Java, Python, C/C++, NodeJS, VBA, SQL, NoSQL, JavaScript
