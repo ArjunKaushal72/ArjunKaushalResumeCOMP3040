@@ -27,7 +27,7 @@ These are some things you should have before following the steps described in th
 #### In Andrew Etters' Book, *Modern Technical Writing*, Etter says that using  headers, tables, lists, diagrams, make your writing more approachable and simpler to scan. So make good use of different Markdown heading sizes in your resume to improve your resume's readability.
 
 ### **2.2: Add your Markdown-formatted Resume .md file to the repository**
-! [Click 'Add File' and then 'Upload Files' to select your resume .md file] (/3040clip.gif "Click 'Add File' and then 'Upload Files' to select your resume .md file") 
+! [Click 'Add File' and then 'Upload Files' to select your resume .md file] (3040clip.gif "Click 'Add File' and then 'Upload Files' to select your resume .md file") 
 #### On the main page of your repository, click 'Add file' and then select 'Upload files' to find your resume .md file. 
 
 ### **2.3: Use a lightweight markup**
@@ -46,5 +46,23 @@ These are some things you should have before following the steps described in th
 ### **3.2: Choose a Jekyll Theme to Publish Your Page With**
 #### Click 'Change Theme' and browse from the many selections available for your page Theme. Once you have selected a theme, click "Select Theme" to apply the change to your rendered Resume. Wait a few minutes for the change to display and view your Markdown-formatted resume with the newly applied Jekyll theme.
 
+## More Resources:
+* #### Andrew Etters' *[*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)*
+* #### *[A Useful Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/#urls-and-email-addresses)*
+* #### *[A Guide to Github Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)*
 
+# Authors and Acknowledgements
+
+### Credit and Acknowledgements go to:
+*  Github user *[@orderedlist](https://github.com/orderedlist)* - for theJekyll theme used for my assignment submission.
+*  My peer editing group mates: Winsom Lam, Braden Jonsson, Anas Ashfaq Mehar, and Joshua Dueck 
+
+
+# FAQ
+
+### **When does my page first go live?**
+#### Your page initially gets hosted after you have adjusted the 'source' field on the 'Pages" settings in your repository settings. Once this is option is selected and saved, you receive the url required to access your hosted and rendered page.
+
+### **Why does my README file already have text in it?**
+#### Your repository may initially include a README file with text already in it. This is because when you initially created your Github repository, you selected the option to include a README file in the new repository. You can overwrite the README as needed.
 
